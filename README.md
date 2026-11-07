@@ -8,6 +8,8 @@ Curso Tecnologia em Banco de Dados na Impacta, com conclusão prevista para junh
 
 | Projeto | O que mostra | Ferramentas |
 | --- | --- | --- |
+| [Fraude no Pix e MED](https://github.com/TaisLacerda19/fraude-pix-med) | Só 9,4% do valor das contestações aceitas voltou pelo MED, em dados do Banco Central | Python, SQL, API |
+| [Selic e inadimplência](https://github.com/TaisLacerda19/inadimplencia-selic) | A inadimplência reage à Selic cerca de 8 meses depois, mais cedo em pessoas físicas | Python, pandas, API |
 | [Preço do combustível em 10 países](https://github.com/TaisLacerda19/gas-price) | Por que os EUA tiveram uma das maiores altas e terminaram entre os mais baratos | Python, pandas, SQL |
 | [Vendas de sorvete e temperatura](https://github.com/TaisLacerda19/projeto-vendas-sorvetes) | Modelo que estima as vendas a partir da temperatura, com R² de 0,977 nos dados de teste | Python, scikit-learn, seaborn |
 
@@ -15,6 +17,8 @@ Curso Tecnologia em Banco de Dados na Impacta, com conclusão prevista para junh
 
 | Projeto | O que mostra | Ferramentas |
 | --- | --- | --- |
+| [Assistente de projetos de lei](https://github.com/TaisLacerda19/assistente-projetos-de-lei) | RAG que busca ementas da Câmara e responde com a API do Claude, com a busca avaliada | Python, TF-IDF, API do Claude |
+| [Classificador de projetos de lei](https://github.com/TaisLacerda19/classificador-projetos-de-lei) | Modelo de linguagem natural validado em um ano novo: 76,5% de acerto | Python, scikit-learn, NLP |
 | [Mundo da Lili](https://github.com/TaisLacerda19/mundo-da-lili) | Geração de personagens e narração de um desenho infantil por API | Python, Ideogram, ElevenLabs |
 | [Flow](https://github.com/TaisLacerda19/flow-site) ([ver site](https://taislacerda19.github.io/flow-site/)) | Landing page conceitual construída com IA, como estudo do Método ID | HTML, CSS, JavaScript |
 
