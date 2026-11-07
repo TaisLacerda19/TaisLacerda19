@@ -8,6 +8,7 @@ Curso Tecnologia em Banco de Dados na Impacta, com conclusão prevista para junh
 
 | Projeto | O que mostra | Ferramentas |
 | --- | --- | --- |
+| [Adoção do Pix nos municípios](https://github.com/TaisLacerda19/pix-adocao-municipios) | Pipeline ETL e SQL com 401 mil linhas: o Pix chegou a todas as regiões, mas a distância segue em 7,3 pontos | Python, SQL, ETL, API |
 | [Fraude no Pix e MED](https://github.com/TaisLacerda19/fraude-pix-med) | Só 9,4% do valor das contestações aceitas voltou pelo MED, em dados do Banco Central | Python, SQL, API |
 | [Selic e inadimplência](https://github.com/TaisLacerda19/inadimplencia-selic) | A inadimplência reage à Selic cerca de 8 meses depois, mais cedo em pessoas físicas | Python, pandas, API |
 | [Preço do combustível em 10 países](https://github.com/TaisLacerda19/gas-price) | Por que os EUA tiveram uma das maiores altas e terminaram entre os mais baratos | Python, pandas, SQL |
